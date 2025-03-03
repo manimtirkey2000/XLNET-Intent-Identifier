@@ -1,0 +1,2071 @@
+[
+    {
+        "tid": 1496737903631904774,
+        "text": "Russian President declared war. On the record. Should I play the video of your President Ambassador, shall I do it? Or will you confirm it? It\u2019s the responsibility of this body to stop the war. I call on everyone to do everything possible to stop the war",
+        "called_subjects": [
+            {
+                "span_text": "everyone",
+                "span_indices": [
+                    204,
+                    212
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "stop the war",
+                "span_indices": [
+                    242,
+                    254
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1496966148088291335,
+        "text": "Dear Black people, Don\u2019t let Starr convince you to defend the US/NATO aggressions that caused this conflict. US/NATO turned Libya into a hell scape for Black people and they\u2019re at fault in Ukraine too. There are neo-Nazis in Ukraine government. Fact. @terrelljstarr #NotoNATO",
+        "called_subjects": [
+            {
+                "span_text": "Black people",
+                "span_indices": [
+                    5,
+                    17
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "Don\u2019t let Starr convince you to defend the US/NATO aggressions",
+                "span_indices": [
+                    19,
+                    81
+                ]
+            },
+            {
+                "span_text": "NotoNATO",
+                "span_indices": [
+                    267,
+                    275
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1497463617767227395,
+        "text": "Kyiv, our splendid, peaceful city, survived another night under attacks by Russian ground forces, missiles. One of them has hit a residential apartment in Kyiv. I demand the world: fully isolate Russia, expel ambassadors, oil embargo, ruin its economy. Stop Russian war criminals!",
+        "called_subjects": [
+            {
+                "span_text": "world",
+                "span_indices": [
+                    174,
+                    179
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "isolate Russia",
+                "span_indices": [
+                    187,
+                    201
+                ]
+            },
+            {
+                "span_text": "expel ambassadors",
+                "span_indices": [
+                    203,
+                    220
+                ]
+            },
+            {
+                "span_text": "oil embargo",
+                "span_indices": [
+                    222,
+                    233
+                ]
+            },
+            {
+                "span_text": "ruin its economy",
+                "span_indices": [
+                    235,
+                    251
+                ]
+            },
+            {
+                "span_text": "Stop Russian war criminals",
+                "span_indices": [
+                    253,
+                    279
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1497479069658664963,
+        "text": "Today, a Russian missile hit an apartment building in #Kyiv. Over the past 2 days, hospitals, kindergartens and orphanages in #Ukrainian cities have been shelled. We demand from the world a decisive response and isolation of Russia for its criminal acts. #StopRussia",
+        "called_subjects": [
+            {
+                "span_text": "world",
+                "span_indices": [
+                    182,
+                    187
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "a decisive response and isolation of Russia for its criminal acts",
+                "span_indices": [
+                    188,
+                    253
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1498243321659109376,
+        "text": "Cut all business ties with Russia. All of them. Making business with Russia today means financing aggression, war crimes, disinformation, cyberattacks and personally the Hitler of the 21st century named Vladimir Putin.",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "Cut all business ties with Russia",
+                "span_indices": [
+                    0,
+                    33
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1498581719422746626,
+        "text": "Over 60 km of Russian tanks and other military techs are heading to Kyiv right now. They want Ukraine's extinction! The world must stop Putin and his genocide of Ukrainian people.",
+        "called_subjects": [
+            {
+                "span_text": "world",
+                "span_indices": [
+                    120,
+                    125
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "stop Putin and his genocide of Ukrainian people",
+                "span_indices": [
+                    131,
+                    178
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1498816723713241090,
+        "text": "We call on all UN member states to defend the principles of the UN charter and vote in favour of the resolution on #Ukraine tomorrow at the UN #GeneralAssembly, proudly co-sponsored by Belgium. #UnitingForPeace #WeStandWithUkraine \ud83c\udde7\ud83c\uddea\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\uddf3",
+        "called_subjects": [
+            {
+                "span_text": "UN member states",
+                "span_indices": [
+                    15,
+                    31
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "defend the principles of the UN charter",
+                "span_indices": [
+                    35,
+                    74
+                ]
+            },
+            {
+                "span_text": "vote in favour of the resolution on #Ukraine",
+                "span_indices": [
+                    79,
+                    123
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1499302851339866113,
+        "text": "This is a true People\u2019s War for Ukraine. Putin has no chance of winning it. On this photo civilians block Russian invaders in Energodar yesterday. One of hundreds of such photos and videos. We need partners to help Ukraine defend itself. Especially in the air. Close the sky now!",
+        "called_subjects": [
+            {
+                "span_text": "partners",
+                "span_indices": [
+                    198,
+                    206
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "help Ukraine defend itself",
+                "span_indices": [
+                    210,
+                    236
+                ]
+            },
+            {
+                "span_text": "Close the sky now",
+                "span_indices": [
+                    261,
+                    278
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1499350866058522627,
+        "text": "Anti-war shopping: @ whatever shop u are demand clear answer from owner or manager if item u intend to purchase made in Russia, designed in Russia, supply chained in Russia or by Russian owned or controlled entity! Don\u2019t finance war! Don\u2019t consume or put on blood stained goods!",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "Don\u2019t finance war",
+                "span_indices": [
+                    215,
+                    232
+                ]
+            },
+            {
+                "span_text": "Don\u2019t consume or put on blood stained goods",
+                "span_indices": [
+                    234,
+                    277
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1499369611829075970,
+        "text": "JOIN THE INTERNATIONAL LEGION OF TERRITORIAL DEFENSE FORCES OF UKRAINE! If your citizenship other than Ukrainian, but you are standing with Ukraine against Russian invasion",
+        "called_subjects": [
+            {
+                "span_text": "you",
+                "span_indices": [
+                    118,
+                    121
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "JOIN THE INTERNATIONAL LEGION OF TERRITORIAL DEFENSE FORCES OF UKRAINE",
+                "span_indices": [
+                    0,
+                    70
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1499638114368868354,
+        "text": "#Zaporizhzhia #nuclearpowerplant is much more powerful than the one in #Chornobyl. It is the biggest in Europe! No other state, except Russia, has ever fired at NPPs. The world must act now to stop RU troops & prevent world's nuclear catastrophe. #Energodar #StandWithUkraine\ufe0f",
+        "called_subjects": [
+            {
+                "span_text": "world",
+                "span_indices": [
+                    171,
+                    176
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "act now to stop RU troops",
+                "span_indices": [
+                    182,
+                    207
+                ]
+            },
+            {
+                "span_text": "prevent world's nuclear catastrophe",
+                "span_indices": [
+                    210,
+                    245
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1499846634422915079,
+        "text": "This is a photo of School 134, Kharkiv after so called \"denazification\". We ask educational platforms for free access to all materials and online courses for all educational institutions in Ukraine. We need to educate our children despite working on Russia to fail",
+        "called_subjects": [
+            {
+                "span_text": "educational platforms",
+                "span_indices": [
+                    80,
+                    101
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "free access to all materials and online courses for all educational institutions in Ukraine",
+                "span_indices": [
+                    106,
+                    197
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1500205925596073985,
+        "text": "Met with my U.S. counterpart and friend @SecBlinken at the Ukrainian-Polish border. We held talks on further deliveries of necessary weapons for Ukraine, ways to ensure the efficiency of sanctions and increase pressure. Putin must stop his meaningless and barbaric war on Ukraine.",
+        "called_subjects": [
+            {
+                "span_text": "Putin",
+                "span_indices": [
+                    220,
+                    225
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "stop his meaningless and barbaric war on Ukraine",
+                "span_indices": [
+                    231,
+                    279
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1500518858263830532,
+        "text": "This horrific 500-kg Russian bomb fell on a residential building in Chernihiv and didn\u2019t explode. Many other did, killing innocent men, women and children. Help us protect our people from Russian barbarians! Help us close the sky. Provide us with combat aircraft. Do something!",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "protect our people from Russian barbarians",
+                "span_indices": [
+                    164,
+                    206
+                ]
+            },
+            {
+                "span_text": "close the sky",
+                "span_indices": [
+                    216,
+                    229
+                ]
+            },
+            {
+                "span_text": "Provide us with combat aircraft",
+                "span_indices": [
+                    231,
+                    262
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1501120119338147848,
+        "text": "Russian money is bloody! It helps Russian missiles attack dwelling houses, kindergartens and hospitals in Ukraine and kill civilians! @UnionPay_Intl, stop working with blood money, stop your services in Russia",
+        "called_subjects": [
+            {
+                "span_text": "UnionPay_Intl",
+                "span_indices": [
+                    135,
+                    148
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "stop working with blood money",
+                "span_indices": [
+                    150,
+                    179
+                ]
+            },
+            {
+                "span_text": "stop your services in Russia",
+                "span_indices": [
+                    181,
+                    209
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1501712438781165571,
+        "text": "How is this cruelty possible? People, don't stay silent! You are witnessing it. You can't just stay aside. We need help. Stand with us. #StandWithUkraine",
+        "called_subjects": [
+            {
+                "span_text": "People",
+                "span_indices": [
+                    30,
+                    36
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "don't stay silent",
+                "span_indices": [
+                    38,
+                    55
+                ]
+            },
+            {
+                "span_text": "Stand with us",
+                "span_indices": [
+                    121,
+                    134
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1502945209159761923,
+        "text": "Today, Russian war criminals abducted another democratically elected Ukrainian mayor, head of Dniprorudne Yevhen Matveyev. Getting zero local support, invaders turn to terror. I call on all states & international organizations to stop Russian terror against Ukraine and democracy.",
+        "called_subjects": [
+            {
+                "span_text": "states",
+                "span_indices": [
+                    190,
+                    196
+                ]
+            },
+            {
+                "span_text": "international organizations",
+                "span_indices": [
+                    199,
+                    226
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "stop Russian terror against Ukraine and democracy",
+                "span_indices": [
+                    230,
+                    279
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1509450462034022401,
+        "text": "Help deprive \ud83c\uddf7\ud83c\uddfa aggressor of its assets \ud83d\udef3\u2708\ufe0f\ud83c\udfd8\ud83c\udfdd\ufe0f\ud83c\udfce\ufe0f \ud83d\udc49 everyone can submit information that will help in search, seizure, confiscation of \ud83c\uddf7\ud83c\uddfa assets. #StopRussianAgression #StandWithUkraine\ufe0f",
+        "called_subjects": [
+            {
+                "span_text": "everyone",
+                "span_indices": [
+                    51,
+                    59
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "deprive \ud83c\uddf7\ud83c\uddfa aggressor of its assets",
+                "span_indices": [
+                    5,
+                    39
+                ]
+            },
+            {
+                "span_text": "submit information that will help in search, seizure, confiscation of \ud83c\uddf7\ud83c\uddfa assets",
+                "span_indices": [
+                    64,
+                    143
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1509887323953115149,
+        "text": "Disconnect from AT&T they continue to support \"Cop City\" in Atlanta a massive urban warfare training center aimed at the movement and Black Communities that will deforest hundreds of acres of land. #StopCopCity",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "Disconnect from AT&T",
+                "span_indices": [
+                    0,
+                    20
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1510912029044920323,
+        "text": "We continue to find out the horrors Russian troops left in Bucha. USA, give Ukraine a chance to stop Russian aggression. Military support we need the most: heavy artillery (152mm; 155mm), armored vehicles, tanks, military trucks, long-range anti-aircraft systems.",
+        "called_subjects": [
+            {
+                "span_text": "USA",
+                "span_indices": [
+                    66,
+                    69
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "give Ukraine a chance to stop Russian aggression",
+                "span_indices": [
+                    71,
+                    119
+                ]
+            },
+            {
+                "span_text": "Military support",
+                "span_indices": [
+                    121,
+                    137
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1512077780703342596,
+        "text": "My Norwegian counterpart @AHuitfeldt and I discussed current frontline developments and ways to put an end to Russia\u2019s barbaric aggression. Humanitarian assistance needs to step up to alleviate the human suffering. Russian war criminals must and will be brought to justice.",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "step up to alleviate the human suffering",
+                "span_indices": [
+                    173,
+                    213
+                ]
+            },
+            {
+                "span_text": "war criminals must and will be brought to justice",
+                "span_indices": [
+                    223,
+                    272
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1512313165874348035,
+        "text": "Stop buying Russian energy sources! Stop sponsoring #Russian war crimes in #Ukraine ! #StandWithUkraine #BuchaMassacre #StopRussianAgression",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "Stop buying Russian energy sources",
+                "span_indices": [
+                    0,
+                    34
+                ]
+            },
+            {
+                "span_text": "Stop sponsoring #Russian war crimes",
+                "span_indices": [
+                    36,
+                    71
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1517572067125825536,
+        "text": "This is Maryna. She is one of 386 \ud83c\uddfa\ud83c\udde6 children injured by russian aggression. 208 more have been killed by russian war criminals. Children are the future which we are now fighting for with our lives. Give us an opportunity protect it. Close the sky! #ArmUkraineNow",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "Close the sky",
+                "span_indices": [
+                    234,
+                    247
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1519993051615223808,
+        "text": "Russia killed Vira Hyrych, a @RFERL journalist. She was going to bed when a Russian ballistic missile hit her apartment in central Kyiv. Russia\u2019s barbarism is incomprehensible. We call on media organizations to condemn the murder of Vira and all other innocent Ukrainians.",
+        "called_subjects": [
+            {
+                "span_text": "media organizations",
+                "span_indices": [
+                    188,
+                    207
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "condemn the murder of Vira and all other innocent Ukrainians",
+                "span_indices": [
+                    211,
+                    271
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1524048169394667521,
+        "text": "Injured defenders of #Azovstal are in complete unsanitary conditions without any necessary medication, they lack water and food. We call on the int\u02bcl community to help us evacuate wounded people who are out of the battle & should be properly treated acc. to the Geneva Convention.",
+        "called_subjects": [
+            {
+                "span_text": "int\u02bcl community",
+                "span_indices": [
+                    144,
+                    159
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "help us evacuate wounded people who are out of the battle & should be properly treated acc. to the Geneva Convention",
+                "span_indices": [
+                    163,
+                    279
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1528037917482004482,
+        "text": "The only thing #Russia can put in #Ukrainian lives is devastation. Together we must stop the Russian bloody refit. #StopRussianWar #ArmUkraineNow",
+        "called_subjects": [
+            {
+                "span_text": "Together",
+                "span_indices": [
+                    67,
+                    75
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "must stop the Russian bloody refit",
+                "span_indices": [
+                    79,
+                    113
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1530867318623977472,
+        "text": "The whole civilized world must recognize russia as a state that sponsors & carries out terrorism, commits genocide against the \ud83c\uddfa\ud83c\udde6 people. I also call upon members of @natopapress: be leaders, bring the truth about this war to your people. Stop russian propaganda!",
+        "called_subjects": [
+            {
+                "span_text": "whole civilized world",
+                "span_indices": [
+                    4,
+                    25
+                ]
+            },
+            {
+                "span_text": "natopapress",
+                "span_indices": [
+                    167,
+                    178
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "recognize russia as a state that sponsors & carries out terrorism, commits genocide",
+                "span_indices": [
+                    31,
+                    114
+                ]
+            },
+            {
+                "span_text": "be leaders, bring the truth about this war to your people",
+                "span_indices": [
+                    180,
+                    237
+                ]
+            },
+            {
+                "span_text": "Stop russian propaganda",
+                "span_indices": [
+                    239,
+                    262
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1537165501461315584,
+        "text": "Every third Russian bullet shot at Ukrainians is sponsored by taxes paid by the Western business in Russia. We urge British companies to exit Russian market completely and immediately thus showing their solidarity with businesses who have already done so.",
+        "called_subjects": [
+            {
+                "span_text": "British companies",
+                "span_indices": [
+                    116,
+                    133
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "exit Russian market",
+                "span_indices": [
+                    137,
+                    156
+                ]
+            },
+            {
+                "span_text": "showing their solidarity with businesses who have already done so",
+                "span_indices": [
+                    189,
+                    254
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1537765550025502720,
+        "text": "UK Home Secretary approves extradition of WikiLeaks publisher Julian Assange to the US. Please read our Red Alert on him. He helped bring to light the torture and atrocities committed by the United States during its so-called War on Terror. #JulianAssange",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "Please read our Red Alert on him",
+                "span_indices": [
+                    88,
+                    120
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1538624999795343361,
+        "text": "June 19 - Father's Day. Lysychansk. A dad near the body of his son killed by russian shelling. How many more sons&daughters we\u2019ll have to loose before the world realises that Ukraine must win? We have to stop russian terrorist&this massacre! Pic by Aris Messinis/AFP/Scanpix/LETA",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "stop russian terrorist&this massacre",
+                "span_indices": [
+                    204,
+                    240
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1539171793587605506,
+        "text": "russia's MLRS Grad destroyed another school in Avdiivka with incendiary munitions. Let's stop russia, which spreads death, destruction and ignorance.",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "stop russia",
+                "span_indices": [
+                    89,
+                    100
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1540937458510086145,
+        "text": "#Russia fired a number of missiles at #Kyiv. One \"high precision\" missile hits \"military object\" - a high rise residential building in Kyiv. People trapped in debris reported.\ud83c\uddf7\ud83c\uddfamust be punished for all its #warcrimes.\ud83c\uddfa\ud83c\udde6must be provided with heavy weapons to #StopRussianAggression",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "\ud83c\uddf7\ud83c\uddfamust be punished for all its",
+                "span_indices": [
+                    175,
+                    205
+                ]
+            },
+            {
+                "span_text": "\ud83c\uddfa\ud83c\udde6must be provided with heavy weapons to #StopRussianAggression",
+                "span_indices": [
+                    217,
+                    280
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1540983570960891904,
+        "text": "This 7 y.o. Ukrainian kid was sleeping peacefully in Kyiv until a Russian cruise missile blasted her home. Many more around Ukraine are under strikes. G7 summit must respond with more sanctions on Russia and more heavy arms for Ukraine. Russia\u2019s sick imperialism must be defeated.",
+        "called_subjects": [
+            {
+                "span_text": "G7 summit",
+                "span_indices": [
+                    151,
+                    160
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "more sanctions on Russia",
+                "span_indices": [
+                    179,
+                    203
+                ]
+            },
+            {
+                "span_text": "more heavy arms for Ukraine",
+                "span_indices": [
+                    208,
+                    235
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1541729959147962369,
+        "text": "\ud83c\uddfa\ud83c\udde6 @ZelenskyyUa: \u201cOnly totally insane terrorists, who should have no place on earth, can strike missiles at civilian objects. #Russia must be recognized as a state-sponsor of terrorism. The world can and therefore must stop #Russian terror.\u201d Full:",
+        "called_subjects": [
+            {
+                "span_text": "world",
+                "span_indices": [
+                    190,
+                    195
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "Russia must be recognized as a state-sponsor of terrorism",
+                "span_indices": [
+                    127,
+                    184
+                ]
+            },
+            {
+                "span_text": "must stop #Russian terror",
+                "span_indices": [
+                    214,
+                    239
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1541836326164541440,
+        "text": "Dear G7 leaders, it\u2019s time for the G to stand for Great! May the Great 7 secure peace in Europe by neutralising the largest terrorist-state on Earth! \ud83c\udde8\ud83c\udde6\ud83c\udde8\ud83c\uddf5\ud83c\uddec\ud83c\udde7\ud83c\udde9\ud83c\uddea\ud83c\uddee\ud83c\uddf9\ud83c\uddef\ud83c\uddf5\ud83c\uddfa\ud83c\uddf2\ud83c\uddea\ud83c\uddfa\ud83e\udd1d\ud83c\uddfa\ud83c\udde6",
+        "called_subjects": [
+            {
+                "span_text": "G7 leaders",
+                "span_indices": [
+                    5,
+                    15
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "secure peace in Europe by neutralising the largest terrorist-state on Earth",
+                "span_indices": [
+                    73,
+                    148
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1542109218999787520,
+        "text": "Inspiring to have @ZelenskyyUa at the #NATOSummit today. We stand in solidarity with Ukraine\u2019s fight for freedom and self-determination. Now is the time to double down and ensure Ukraine defeats Russia so President Zelenskyy can negotiate from a position of strength.",
+        "called_subjects": [
+            {
+                "span_text": "NATOSummit",
+                "span_indices": [
+                    39,
+                    49
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "stand in solidarity with Ukraine\u2019s fight for freedom and self-determination",
+                "span_indices": [
+                    60,
+                    135
+                ]
+            },
+            {
+                "span_text": "double down and ensure Ukraine defeats Russia so President Zelenskyy can negotiate from a position of strength",
+                "span_indices": [
+                    156,
+                    266
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1544314949496872960,
+        "text": "Around UAH 200M have been donated for the Army of Drones! We've launched this project only on Friday; and already 2 Warmate unmanned systems are in purchase process for Army. Also dozens of your drones arrived to the warehouse. Don't stop with dronations:",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "Don't stop with dronations",
+                "span_indices": [
+                    228,
+                    254
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1545441920909975553,
+        "text": "Kharkiv. russia continues to deliberately kill civilians. It should be officially designated as a state sponsor of terrorism as soon as possible. Photo by Evgeniy Maloletka",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "It should be officially designated as a state sponsor of terrorism as soon as possible",
+                "span_indices": [
+                    58,
+                    144
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1546494519780278274,
+        "text": "Czechs have bitter memories of russian tanks in Prague, 1968. Now they can see them from a different angle. Today an exhibition of rus weapons destroyed by \ud83c\uddfa\ud83c\udde6 warriors opens in the capital of \ud83c\udde8\ud83c\uddff.Ukraine is a shield in the East of Europe. Give us the tools and we will end the war!",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "Give us the tools and we will end the war",
+                "span_indices": [
+                    238,
+                    279
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1547528614060646400,
+        "text": "A baby killed after #Russia\u2019s missile attack at the centre of #Vinnytsia today. Russia stole the future of this baby who was supposed to live a happy life in a free #Ukraine. \ud83c\uddf7\ud83c\uddfais a criminal. It must be punished for its terrible #warcrimes against Ukrainians. #StandWithUkraine",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "It must be punished for its terrible #warcrimes against Ukrainians",
+                "span_indices": [
+                    192,
+                    258
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1548582054945853440,
+        "text": "Eight years ago russian terrorists shot down MH17 and killed 298 people. Evil wasn't punished, and now the number of russia\u2019s victims is dramatically increasing up to dozens of thousands civilians. #stoprussia don't give them any chance to kill millions!",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "stoprussia don't give them any chance to kill millions",
+                "span_indices": [
+                    199,
+                    253
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1548627642127208449,
+        "text": "The funeral of one of the hundreds of Ukrainian children killed by russians in #Vinnytsia Lisa, a 4-year-old. The world must stop thus russian evil and punish russian terrorists. Photo by @suspilne_news",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "stop thus russian evil",
+                "span_indices": [
+                    125,
+                    147
+                ]
+            },
+            {
+                "span_text": "punish russian terrorists",
+                "span_indices": [
+                    152,
+                    177
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1548843996914393089,
+        "text": "After I was not able to log into @EndtheDamnWars after a brief hiatus, I've realized that @TwitterSupport permanently banned our account without ever giving a reason why. I've appealed but would really appreciate help amplifying this to try and get the decision reversed.",
+        "called_subjects": [
+            {
+                "span_text": "TwitterSupport",
+                "span_indices": [
+                    91,
+                    105
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "get the decision reversed",
+                "span_indices": [
+                    245,
+                    270
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1555517770254753795,
+        "text": "#Russia is playing a famine game with the world, denying people access to food. The only game-changing rule is spreading the truth. \ud83d\udce2 Visit #Ukraine\u2019s online platform Help Ukraine be vocal! #RussiaHungerGames #HungerMadeinRussia",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "Visit #Ukraine\u2019s online platform Help Ukraine be vocal",
+                "span_indices": [
+                    134,
+                    188
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1556939792406953986,
+        "text": "Another \ud83c\uddfa\ud83c\udde6\u2019s friend is joining the UK-led programme to increase #UAarmy combat capability. \ud83c\uddeb\ud83c\uddee will send its service members to the \ud83c\uddec\ud83c\udde7 to train our troops. Let\u2019s forge victory over the terrorist state together! Thanks to @DefenceFinland @anttikaikkonen",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "forge victory over the terrorist state together",
+                "span_indices": [
+                    161,
+                    208
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1560269499244638212,
+        "text": "IF YOU THINK ABOUT IT NORTH KOREA DIDN'T EVEN START THE NUCLEAR CRISIS BECAUSE IT WAS THE US THAT THREATENED TO NUKE THEM DURING THE WAR AND PUT NUKES IN KOREA AFTER 1958. NORTH KOREA ACTUALLY HAS A NO FIRST STRIKE POLICY. HAVE YOU EVER HEARD OF @NODUTDOL? YOU SHOULD FOLLOW THEM",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "FOLLOW THEM",
+                "span_indices": [
+                    268,
+                    279
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1560952848623476737,
+        "text": "Russia\u2019s Ambassador Mikhail Ulyanov is calling for the elimination of the Ukrainian nation. This genocidal language must not be tolerated. We call on the entire diplomatic community in Vienna to boycott Ulyanov, and on the host country, Austria - to declare him persona non grata.",
+        "called_subjects": [
+            {
+                "span_text": "entire diplomatic community in Vienna",
+                "span_indices": [
+                    154,
+                    191
+                ]
+            },
+            {
+                "span_text": "Austria",
+                "span_indices": [
+                    237,
+                    244
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "boycott Ulyanov",
+                "span_indices": [
+                    195,
+                    210
+                ]
+            },
+            {
+                "span_text": "declare him persona non grata",
+                "span_indices": [
+                    250,
+                    279
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1561613001827950592,
+        "text": "#Russia is playing famine games with the world by weaponising the food. To change the rules of this game \u2013 read and share the Manual on game-changing rules to stop #RussiasFamineGame. Help #Ukraine be vocal! To download the Manual \ud83d\udc47",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "read and share the Manual on game-changing rules to stop #RussiasFamineGame",
+                "span_indices": [
+                    107,
+                    182
+                ]
+            },
+            {
+                "span_text": "Help #Ukraine be vocal!",
+                "span_indices": [
+                    184,
+                    207
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1562069673176358912,
+        "text": "Crimea is a place where Russian invasion started 8y ago. Failure of international community to act assertively in 2014 led to a full-scale \ud83c\uddf7\ud83c\uddfa war against \ud83c\uddfa\ud83c\udde6. We must learn the lesson. Military& political support to \ud83c\uddfa\ud83c\udde6 must be scaled-up, no place for war fatigue! #CrimeaPlatform",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "We must learn the lesson",
+                "span_indices": [
+                    158,
+                    182
+                ]
+            },
+            {
+                "span_text": "Military& political support to \ud83c\uddfa\ud83c\udde6 must be scaled-up",
+                "span_indices": [
+                    184,
+                    235
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1563073065852227585,
+        "text": "The famine begins with #Russia\u2019s lies. Check out what is happening with global food security and what are the threats? \ud83d\udcf8Efrem Lukatsky @AP Read more: #RussiasFamineGame",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "Check out what is happening with global food security and what are the threats",
+                "span_indices": [
+                    39,
+                    117
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1563130920466464768,
+        "text": "FM @DmytroKuleba: By ordering to attack Ukraine, Putin committed a crime of aggression, the gravest of all crimes against international peace. We call on our international partners to support the establishment of the Special Tribunal for the Crime of Aggression against Ukraine.",
+        "called_subjects": [
+            {
+                "span_text": "international partners",
+                "span_indices": [
+                    158,
+                    180
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "support the establishment of the Special Tribunal for the Crime of Aggression against Ukraine",
+                "span_indices": [
+                    184,
+                    277
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1563275856734461952,
+        "text": "Joint music forces of @U24_gov_ua: @edsheeran and \ud83c\uddfa\ud83c\udde6 band Antytila supported UNITED24 initiative during the concert in Warsaw. No doubts that world\u2019s talented people are on Ukrainian side. Join & donate for the soonest victory of freedom:",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "Join & donate for the soonest victory of freedom",
+                "span_indices": [
+                    189,
+                    237
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1568518411239493632,
+        "text": "Ukrainian troops are advancing in eastern Ukraine, liberating more cities and villages. Their courage coupled with Western military support brings astonishing results. It\u2019s crucial to keep sending arms to Ukraine. Defeating Russia on the battlefield means winning peace in Ukraine",
+        "called_subjects": [
+            {
+                "span_text": "Western military support",
+                "span_indices": [
+                    115,
+                    139
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "keep sending arms to Ukraine",
+                "span_indices": [
+                    184,
+                    212
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1569763880909283332,
+        "text": "3.00 pm moments before #77UNGA begins \u2026 the war must end during this session, russia must be held accountable. Let\u2019s make #77UNGA the session of the end of impunity and restoration of respect of UN Charter. The choice is yours, UN Members!",
+        "called_subjects": [
+            {
+                "span_text": "UN Members",
+                "span_indices": [
+                    228,
+                    238
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "the war must end during this session",
+                "span_indices": [
+                    40,
+                    76
+                ]
+            },
+            {
+                "span_text": "make #77UNGA the session of the end of impunity and restoration of respect of UN Charter",
+                "span_indices": [
+                    117,
+                    205
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1570060802270298112,
+        "text": "russian torture chamber in liberated Balakliya. The Lord's Prayer was carved on the wall by Ukrainian prisoners. russia must be held accountable for this blatant genocide.",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "russia must be held accountable",
+                "span_indices": [
+                    113,
+                    144
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1570869189971419136,
+        "text": "Mass graves in Izium prove that whenever we liberate territories, there is evidence of horrendous Russian crimes. One can only imagine the hell that people in other Russia-occupied territories still go through. We urgently need more weapons to liberate them and save their lives!",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "urgently need more weapons",
+                "span_indices": [
+                    214,
+                    240
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1572303053222707203,
+        "text": "Met with Australian Foreign Minister @SenatorWong in New York to thank her for Australia\u2019s unwavering support. We discussed further military aid to Ukraine. I requested to consider sending us more Bushmasters, given the important role they play in countering Russian aggression.",
+        "called_subjects": [
+            {
+                "span_text": "SenatorWong",
+                "span_indices": [
+                    38,
+                    49
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "requested to consider sending us more Bushmasters",
+                "span_indices": [
+                    159,
+                    208
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1572589126037413889,
+        "text": "Together with @Denys_Shmyhal thanked Secretary General @antonioguterres for his personal efforts supporting Ukraine. But now we need even more international help to free \ud83c\uddfa\ud83c\udde6 doctors, women and children from Russian captivity. I believe that I was heard and we will get the help.",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "free \ud83c\uddfa\ud83c\udde6 doctors, women and children from Russian captivity",
+                "span_indices": [
+                    165,
+                    223
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1572636160509476864,
+        "text": "Met with my Finnish counterpart Pekka @Haavisto. We focused on further military aid to Ukraine as we defend our people and our land from the ongoing Russian aggression. I called on Finland to join the Baltic states and Poland in sealing the border with Russia.",
+        "called_subjects": [
+            {
+                "span_text": "Finland",
+                "span_indices": [
+                    181,
+                    188
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "join the Baltic states and Poland in sealing the border with Russia",
+                "span_indices": [
+                    192,
+                    259
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1579235051602333696,
+        "text": "Ukraine war- Not in my name. We did not consent to \u00a37.5bn being given to the government's Ukraine proxy war, nor did we consent to our economy being ruined by these self- defeating policies. We demand a Referendum; we want democracy! Please sign and share:",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "demand a Referendum",
+                "span_indices": [
+                    194,
+                    213
+                ]
+            },
+            {
+                "span_text": "Please sign and share",
+                "span_indices": [
+                    234,
+                    255
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1580298222618411008,
+        "text": "Belarus, DPRK, Nicaragua, Syria - AGAINST & russia in shambles. Never before we\u2019ve seen such a support of territorial integrity of Ukraine, & defense of Principles of Charter of UN. Crimea, Kherson, Donetsk, Luhansk Zapporizhzhia are Ukraine. Putin must stop the war and withdraw!",
+        "called_subjects": [
+            {
+                "span_text": "Putin",
+                "span_indices": [
+                    243,
+                    248
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "must stop the war and withdraw",
+                "span_indices": [
+                    249,
+                    279
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1582052965757595659,
+        "text": "Head over to Brooklyn NY if you can. Folks are gathering in the next 2-3 hours. #stopUNinvasionofHaiti #NoMore",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "Head over to Brooklyn NY",
+                "span_indices": [
+                    0,
+                    24
+                ]
+            },
+            {
+                "span_text": "gathering in the next 2-3 hours",
+                "span_indices": [
+                    47,
+                    78
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1582653838779387907,
+        "text": "Since the beginning of #russia's use of Iranian-made kamikaze drones, in 36 days, the #Ukrainian forces have shot down 223 \"Shahed-136\". #Iran must be sanctioned for helping russia carry out terror against Ukrainians. #russiaisateroriststate #StandWithUkraine",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "Iran must be sanctioned for helping russia carry out terror against Ukrainians",
+                "span_indices": [
+                    138,
+                    216
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1582753571493191680,
+        "text": "As Chair of @ukr_nat I call on @UNESCO &partners to condemn \"martial law\" imposed by #russia in temporarily occupied\ud83c\uddfa\ud83c\udde6territories of Zaporizhzhia,Kherson,Luhansk&Donetsk regions which endangers\ud83c\uddfa\ud83c\udde6cultural heritage&creates a pretext for illicit transfer of\ud83c\uddfa\ud83c\udde6cultural objects to\ud83c\uddf7\ud83c\uddfa1/2",
+        "called_subjects": [
+            {
+                "span_text": "UNESCO &partners",
+                "span_indices": [
+                    32,
+                    48
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "condemn \"martial law\" imposed by #russia in temporarily occupied\ud83c\uddfa\ud83c\udde6territories",
+                "span_indices": [
+                    52,
+                    129
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1584219667362902016,
+        "text": "Due to #russian invasion of #Ukraine, 90% of Ukraine's wind energy infrastructure & about 40-50% of the solar energy infrastructure is destroyed. #russia keeps terrorizing Ukrainians and it's course to create energy crisis in our country. Help us protect \ud83c\uddfa\ud83c\udde6 sky now. Stop\ud83c\uddf7\ud83c\uddfaterror",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "Help us protect \ud83c\uddfa\ud83c\udde6 sky now",
+                "span_indices": [
+                    239,
+                    265
+                ]
+            },
+            {
+                "span_text": "Stop\ud83c\uddf7\ud83c\uddfaterror",
+                "span_indices": [
+                    267,
+                    279
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1584274113220124672,
+        "text": "Every day, #UAarmy liberates our land from rus dirt. The thought of a \"dirty bomb\" is repulsive to us. We invite @UN @iaeaorg monitoring missions to visit\ud83c\uddfa\ud83c\udde6.The world should provide a response to rus nuclear blackmail.We demand adherence to paragraph 4 of the Budapest Memorandum",
+        "called_subjects": [
+            {
+                "span_text": "UN @iaeaorg",
+                "span_indices": [
+                    114,
+                    125
+                ]
+            },
+            {
+                "span_text": "world",
+                "span_indices": [
+                    161,
+                    166
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "visit\ud83c\uddfa\ud83c\udde6.",
+                "span_indices": [
+                    149,
+                    157
+                ]
+            },
+            {
+                "span_text": "provide a response to rus nuclear blackmail",
+                "span_indices": [
+                    174,
+                    217
+                ]
+            },
+            {
+                "span_text": "adherence to paragraph 4 of the Budapest Memorandum",
+                "span_indices": [
+                    228,
+                    279
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1592596964977565696,
+        "text": "The best way to fight Russian terror \u2014 ensure that Ukraine has enough weapons. UNITED24 Ambassador @TimothyDSnyder announces fundraising campaign on anti drone system \u201cShahed Hunter\u201d. Goal: $ 1,25 mln. Support here:",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "ensure that Ukraine has enough weapons",
+                "span_indices": [
+                    39,
+                    77
+                ]
+            },
+            {
+                "span_text": "Support here",
+                "span_indices": [
+                    202,
+                    214
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1594169560432869377,
+        "text": "I\u2019m moved by the energy & power of the 300 conscious people who came together today at @PeoplesForumNYC to oppose this US-NATO proxy war. 2K people online! Join us & the @answercoalition as we build actions to defeat the warmongers in Washington. Watch:",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "Join us & the @answercoalition as we build actions to defeat the warmongers in Washington",
+                "span_indices": [
+                    156,
+                    245
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1595734416953073668,
+        "text": "We call on Int'l community,incl #CrimeaPlatform,to exert maximum pressure on #russia which sentenced today\ud83c\uddfa\ud83c\udde6citizen journalists Osman Arifmemetov,Ruslan Suleimanov,Rustem Sheikhaliev+activists Yashar Muedinov&Enver Ametov to draconian terms 4 their position that #CrimeaIsUkraine",
+        "called_subjects": [
+            {
+                "span_text": "Int'l community",
+                "span_indices": [
+                    11,
+                    26
+                ]
+            },
+            {
+                "span_text": "CrimeaPlatform",
+                "span_indices": [
+                    33,
+                    47
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "exert maximum pressure on #russia",
+                "span_indices": [
+                    51,
+                    84
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1596825422926270464,
+        "text": "Making Russia Pay: Much of Russia\u2019s present & future trade earnings surpluses will be needed for domestic needs but a large fraction should go to Ukraine; obstacle isn\u2019t economic but political & whoever ultimately inhabits Kremlin should be made to agree",
+        "called_subjects": [
+            {
+                "span_text": "whoever ultimately inhabits Kremlin",
+                "span_indices": [
+                    195,
+                    230
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "Making Russia Pay",
+                "span_indices": [
+                    0,
+                    17
+                ]
+            },
+            {
+                "span_text": "a large fraction should go to Ukraine",
+                "span_indices": [
+                    116,
+                    153
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1597688796149006337,
+        "text": "Ukraine needs not only victory, but also justice. So, in my address to @UKParliament, I called on all those supporting our people to take a consistent step and support the UN General Assembly resolution on creation of a special tribunal on the ru-aggression crime against Ukraine.",
+        "called_subjects": [
+            {
+                "span_text": "UKParliament",
+                "span_indices": [
+                    72,
+                    84
+                ]
+            },
+            {
+                "span_text": "all those supporting our people",
+                "span_indices": [
+                    98,
+                    129
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "take a consistent step",
+                "span_indices": [
+                    133,
+                    155
+                ]
+            },
+            {
+                "span_text": "support the UN General Assembly resolution on creation of a special tribunal on the ru-aggression crime against Ukraine",
+                "span_indices": [
+                    160,
+                    279
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1597858115419971584,
+        "text": "#Solidarity to all @CWUnews @ucu & @NEUnion members in sixth form colleges on strike today. In London join the rally at 1pm Kings X. In the face of #CostOfLivingCrisis don\u2019t let racism ever divide us! #EnoughIsEnough #RefugeesWelcome #BlackLivesMatter",
+        "called_subjects": [
+            {
+                "span_text": "CWUnews @ucu & @NEUnion members",
+                "span_indices": [
+                    20,
+                    51
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "join the rally",
+                "span_indices": [
+                    102,
+                    116
+                ]
+            },
+            {
+                "span_text": "don\u2019t let racism ever divide us",
+                "span_indices": [
+                    168,
+                    199
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1597885345173221377,
+        "text": "#russia continues reprisals with #CrimeanTatars. Marlen Mustafaiev, activist, father of 2,member of NGO\"Crimea Solidarity\" was sentenced today to 17 years for his pro\ud83c\uddfa\ud83c\udde6position.We call on our partners to condemn this\"verdict\"&\u2b06\ufe0fsanctions on #russia. Otherwise\ud83c\uddf7\ud83c\uddfawill not stop",
+        "called_subjects": [
+            {
+                "span_text": "partners",
+                "span_indices": [
+                    192,
+                    200
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "condemn this\"verdict\"&\u2b06\ufe0fsanctions on #russia",
+                "span_indices": [
+                    204,
+                    248
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1598379366328766486,
+        "text": "At our meeting with @MatteoMecacci we discussed in detail Russia\u2019s crimes and the need for accountability. I called on ODIHR to pay a serious and special attention to Russia\u2019s abduction of Ukrainian children, one of the most cynical crimes of Russia\u2019s genocidal war on Ukraine.",
+        "called_subjects": [
+            {
+                "span_text": "ODIHR",
+                "span_indices": [
+                    119,
+                    124
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "pay a serious and special attention to Russia\u2019s abduction of Ukrainian children",
+                "span_indices": [
+                    128,
+                    207
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1599679224628928512,
+        "text": "Deeply saddened by a horrible act of violence in the north of the city of #Goma #DRC which led to more than 100 victims. My prayers and condolences go to the families of the perished. I wish a speedy recovery to all wounded. Perpetrators must be identified and held accountable!",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "Perpetrators must be identified and held accountable",
+                "span_indices": [
+                    225,
+                    277
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1599800510969970689,
+        "text": "#russian terrorists fired more than 70 missiles today,targeting energy infrastructure&residential buildings.\ud83c\uddfa\ud83c\udde6defence forces shot down more than 60.Many Ukrainians are left without energy,heating&water supply in a freezing cold weather.\ud83c\uddfa\ud83c\udde6needs more weapons to protect its sky. Now",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": ".\ud83c\uddfa\ud83c\udde6needs more weapons to protect its sky",
+                "span_indices": [
+                    235,
+                    275
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1602330251450892290,
+        "text": "Grateful to @JosepBorrellF for inviting me to today\u2019s EU Foreign Affairs Council. My message was simple: No Step Back in supporting Ukraine until Russian aggression is defeated. Sanctions on Russia and military assistance to Ukraine should be significantly stepped up.",
+        "called_subjects": [
+            {
+                "span_text": "EU Foreign Affairs Council",
+                "span_indices": [
+                    54,
+                    80
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "No Step Back in supporting Ukraine",
+                "span_indices": [
+                    105,
+                    139
+                ]
+            },
+            {
+                "span_text": "Sanctions on Russia and military assistance to Ukraine should be significantly stepped up",
+                "span_indices": [
+                    178,
+                    267
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1605743843881603072,
+        "text": "ANNOUNCING: On February 19 we are going to Washington DC to Rage Against the War Machine! We will rally at the Lincoln Memorial with vets, speakers, rock bands, and comedians then march to the White House to demand an end to the billions going to Ukraine!",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "we are going to Washington DC",
+                "span_indices": [
+                    27,
+                    56
+                ]
+            },
+            {
+                "span_text": "rally at the Lincoln Memorial",
+                "span_indices": [
+                    98,
+                    127
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1606607692872781824,
+        "text": "Christmas Eve. Russian terror strike on Kherson leads to multiple civilian casualties. While families in Europe, North America, and beyond prepare festive dinners, spare a thought for Ukraine which is fighting evil right now. We need your active and lasting support to prevail.",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "spare a thought for Ukraine",
+                "span_indices": [
+                    164,
+                    191
+                ]
+            },
+            {
+                "span_text": "active and lasting support to prevail",
+                "span_indices": [
+                    239,
+                    276
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1608115313337409538,
+        "text": "#russian occupiers in #Crimea sentenced\ud83c\uddfa\ud83c\udde6citizen journalist Iryna Danilovych to 7 years in prison.This is nothing but weakness&revenge for her active position.We call on our partners to condemn this absurd \"verdict\"& \u2b06\ufe0fpressure on\ud83c\uddf7\ud83c\uddfato release\ud83c\uddfa\ud83c\udde6political prisoners&restore justice.",
+        "called_subjects": [
+            {
+                "span_text": "our partners",
+                "span_indices": [
+                    170,
+                    182
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "condemn this absurd \"verdict",
+                "span_indices": [
+                    186,
+                    214
+                ]
+            },
+            {
+                "span_text": "pressure on\ud83c\uddf7\ud83c\uddfato release\ud83c\uddfa\ud83c\udde6political prisoners&restore justice",
+                "span_indices": [
+                    219,
+                    279
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1610993532462059521,
+        "text": "#RAGEAGAINSTTHEWARMACHINE \ud83c\uddfa\ud83c\uddf8Protest march on Feb. 19th. in Washington DC starting at the #LincolnMemorial Pls. share\ud83d\ude4f\u262e @georgegalloway #NickBrana",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "Protest march on Feb. 19th. in Washington DC starting at the #LincolnMemorial",
+                "span_indices": [
+                    28,
+                    105
+                ]
+            },
+            {
+                "span_text": "Pls. share",
+                "span_indices": [
+                    106,
+                    116
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1611196002320392207,
+        "text": "Sign up NOW. Free! While you still can @No2NatoNo2War #Russia #UkraineRussiaWar\ufe0f",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "Sign up NOW",
+                "span_indices": [
+                    0,
+                    11
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1611522326100836354,
+        "text": "First 200 seats taken. Register NOW #No2Nato #No2war The only anti-NATO show in town! @No2NatoNo2War #Russia #Ukraine #Nato @MaxBlumenthal @anyaparampil @ClareDalyMEP @Lowkey0nline",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "Register NOW",
+                "span_indices": [
+                    23,
+                    35
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1613234291919446033,
+        "text": "\u2753Isn't it amazing how many UK journalists have been silent while Julian #Assange has been persecuted in Belmarsh\u2753 We're on the side of those who expose war crimes, not those who commit them. We need you to join us as a member. Just go here \ud83d\udc49",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "join us as a member.",
+                "span_indices": [
+                    206,
+                    226
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1614267333047885827,
+        "text": "Each barrage of missiles further exhausts Russian stocks. However, they are still able to produce new ones. We can and must kill their missile and drone industry with a mass sanctions strike! I urge G7 and the EU to implement relevant sanctions proposed by Ukraine without delay.",
+        "called_subjects": [
+            {
+                "span_text": "G7",
+                "span_indices": [
+                    199,
+                    201
+                ]
+            },
+            {
+                "span_text": "EU",
+                "span_indices": [
+                    210,
+                    212
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "must kill their missile and drone industry with a mass sanctions strike",
+                "span_indices": [
+                    119,
+                    190
+                ]
+            },
+            {
+                "span_text": "implement relevant sanctions proposed by Ukraine without delay",
+                "span_indices": [
+                    216,
+                    278
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1614311129727074305,
+        "text": "Horrifying \ud83c\uddf7\ud83c\uddfa attack on #Dnipro. As a result of #russia's barbaric missile strike on residential building, lives of 5 people were cut short. 39 wounded, including 7 children. We call on our partners for strong reaction - weapons for \ud83c\uddfa\ud83c\udde6 and tough sanction against \ud83c\uddf7\ud83c\uddfa.",
+        "called_subjects": [
+            {
+                "span_text": "partners",
+                "span_indices": [
+                    190,
+                    198
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "strong reaction",
+                "span_indices": [
+                    203,
+                    218
+                ]
+            },
+            {
+                "span_text": "weapons for \ud83c\uddfa\ud83c\udde6 and tough sanction against \ud83c\uddf7\ud83c\uddfa.",
+                "span_indices": [
+                    221,
+                    266
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1615368574109089793,
+        "text": "\ud83c\uddfa\ud83c\udde6 President of #Ukraine @ZelenskyyUa: Now we need even greater cohesion throughout the free world. And this is the only way to end full-scale aggression and total terror. The energy of the struggling world must not weaken.",
+        "called_subjects": [
+            {
+                "span_text": "free world",
+                "span_indices": [
+                    88,
+                    98
+                ]
+            }
+        ],
+        "called_actions": [
+            {
+                "span_text": "greater cohesion",
+                "span_indices": [
+                    56,
+                    72
+                ]
+            },
+            {
+                "span_text": "to end full-scale aggression and total terror",
+                "span_indices": [
+                    125,
+                    170
+                ]
+            },
+            {
+                "span_text": "energy of the struggling world must not weaken",
+                "span_indices": [
+                    176,
+                    222
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1619004096622755841,
+        "text": "Today, we commemorate victims of #Holocaust. Lives of millions #Jews were cut short by #Nazi regime, as\ud83c\uddfa\ud83c\udde6survived #famine 1932-1933 & #CrimeanTatar - deportation 1944. \ud83c\uddf7\ud83c\uddfawar against\ud83c\uddfa\ud83c\udde6is cynical repetition of darkest pages in world history. Our common duty is to put an end to it.",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "put an end to it",
+                "span_indices": [
+                    262,
+                    278
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1619991947594301440,
+        "text": "\ud83c\uddf1\ud83c\uddf9 support organisations join together to buy radars to help protect the sky of \ud83c\uddfa\ud83c\udde6. 5 mln euro for 5 radars. Please help us and help \ud83c\uddfa\ud83c\udde6! Paypal: mes@stipruskartu.lt Bank transfer: Vsi Melyna ir geltona LT81 7300 0101 7572 0500 Swedbank SWIFT: HABALT22 Purpose: Lets radar",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "buy radars to help protect the sky of \ud83c\uddfa\ud83c\udde6.",
+                "span_indices": [
+                    42,
+                    83
+                ]
+            },
+            {
+                "span_text": "Please help us",
+                "span_indices": [
+                    109,
+                    123
+                ]
+            },
+            {
+                "span_text": "help \ud83c\uddfa\ud83c\udde6!",
+                "span_indices": [
+                    128,
+                    136
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1620700402705637376,
+        "text": "Over last day #russians killed 4 civilians in #Donetsk region. Six more people were injured. \ud83c\uddf7\ud83c\uddfa occupiers turned Eastern and Southern regions of #Ukraine into the territories of terror. Surviving became the main skill of people there. We need to speed up to stop this terror.",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "speed up to stop this terror",
+                "span_indices": [
+                    246,
+                    274
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1622642023697088517,
+        "text": "Ukrainian figure skater Dmytro Sharpar was killed near Bakhmut.Before the war Dmytro participated in the Youth Olympic Games. russia is sending its troops to kill Ukrainians. It also wants to send its athletes to kill the reputation of Olympics. We must stop them from doing both!",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "stop them from doing both",
+                "span_indices": [
+                    254,
+                    279
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1628018556142071808,
+        "text": "Russia is heavily shelling Kherson. Missiles against people, residential buildings, pharmacies, markets, vehicle parks... To defeat Russian invaders on Ukrainian land is to save both Ukraine & other nations in Europe, which Russia wants to conquer, from terror. Terror must lose!",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "Terror must lose",
+                "span_indices": [
+                    262,
+                    278
+                ]
+            }
+        ]
+    },
+    {
+        "tid": 1629091864031727617,
+        "text": "A year ago Russia started full scale war against Ukraine, many doubted if Ukrainians would withstand. They did, their moral victory is great. Today many ask, if Ukraine can win militarily. The answer is yes and we must send more weapons, more help. Ruzzia delenda est",
+        "called_subjects": [],
+        "called_actions": [
+            {
+                "span_text": "send more weapons, more help",
+                "span_indices": [
+                    219,
+                    247
+                ]
+            },
+            {
+                "span_text": "Ruzzia delenda est",
+                "span_indices": [
+                    249,
+                    267
+                ]
+            }
+        ]
+    }
+]
