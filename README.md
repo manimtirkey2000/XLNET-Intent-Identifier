@@ -11,7 +11,7 @@ The system uses human-annotated and weakly-annotated datasets and applies XLNet-
 
 ## 📂 Repository Structure
 
-
+```bash
 ├── human\_annotated\_cta.json         # Human-labeled CTA tweets
 ├── human\_annotated\_de.json          # Human-labeled DE tweets
 ├── weak\_annotated\_cta.json          # Weak-labeled CTA data
@@ -19,7 +19,7 @@ The system uses human-annotated and weakly-annotated datasets and applies XLNet-
 ├── combined\_data.csv                # Merged and processed dataset
 ├── dataset\_extraction\_NLP\_FTP.ipynb # Notebook to extract and process data
 ├── \[ACTUAL\_RUN]\_Sequence\_labeling\_stacked\_NLP\_FTP.ipynb # XLNet labeling and training
-
+```
 
 ---
 
@@ -104,12 +104,12 @@ This project is open-source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-**Your Name** – [@yourgithub](https://github.com/yourgithub)
+**Manim Tirkey** – [@manimtirkey2000](https://github.com/manimtirkey2000)
 
 ---
 
 ## 📬 Contact
 
-For any questions or collaborations, reach out at [your.email@example.com](mailto:your.email@example.com).
+For any questions or collaborations, reach out at [manimtirkey20.03@gmail.com](mailto:manimtirkey20.03@gmail.com).
 
 ```
