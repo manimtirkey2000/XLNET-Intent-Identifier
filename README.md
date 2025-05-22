@@ -1,7 +1,7 @@
 
 # XLNet Intent Identifier
 
-This repository focuses on **intent extraction and span classification** using a stacked labeling approach on tweet data. It specifically targets two types of intent:
+This project focuses on **intent extraction and span classification** using a stacked labeling approach on tweet data. It specifically targets two types of intent:
 - **Call to Action (CTA)**
 - **Discrediting Entities (DE)**
 
