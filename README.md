@@ -1,4 +1,4 @@
-```markdown
+
 # XLNet Intent Identifier
 
 This repository focuses on **intent extraction and span classification** using a stacked labeling approach on tweet data. It specifically targets two types of intent:
@@ -11,7 +11,6 @@ The system uses human-annotated and weakly-annotated datasets and applies XLNet-
 
 ## 📂 Repository Structure
 
-```
 
 ├── human\_annotated\_cta.json         # Human-labeled CTA tweets
 ├── human\_annotated\_de.json          # Human-labeled DE tweets
@@ -21,7 +20,6 @@ The system uses human-annotated and weakly-annotated datasets and applies XLNet-
 ├── dataset\_extraction\_NLP\_FTP.ipynb # Notebook to extract and process data
 ├── \[ACTUAL\_RUN]\_Sequence\_labeling\_stacked\_NLP\_FTP.ipynb # XLNet labeling and training
 
-````
 
 ---
 
